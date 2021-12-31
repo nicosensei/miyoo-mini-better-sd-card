@@ -1,0 +1,7 @@
+{
+"label":"SDL Pal",
+"icon":"pal.png",
+"iconsel":"pal_sel.png",
+"launch":"launch.sh",
+"description":"Legend of Sword and Fairy"
+}
