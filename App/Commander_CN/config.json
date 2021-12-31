@@ -1,0 +1,7 @@
+{
+"label":"文件管理器",
+"icon":"commander.png",
+"iconsel":"commander_sel.png",
+"launch":"launch.sh",
+"description":"DinguxCommander_CN for Miyoo Mini"
+}
