@@ -1,0 +1,2 @@
+- no imgs for arcade
+- .retroarch ds la conf gambatte (pas de filtres)

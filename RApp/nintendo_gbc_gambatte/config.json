@@ -3,7 +3,7 @@
 "icon":"gambatte.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../roms/gcb",
+"rompath":"../../roms/gbc",
 "imgpath":"../../Imgs/gbc",
 "useswap":0,
 "shortname":0,

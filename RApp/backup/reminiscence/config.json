@@ -1,0 +1,12 @@
+{
+"label":"reminiscence",
+"icon":"reminiscence.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../RRoms/reminiscence",
+"imgpath":"../../Imgs/",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

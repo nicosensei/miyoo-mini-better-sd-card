@@ -1,6 +1,7 @@
 #!/bin/sh
 echo $0 $*
-progdir=`dirname "$0"`
-homedir=`dirname "$1"`
-cd /mnt/SDCARD/RetroArch/
-HOME=/mnt/SDCARD/RetroArch/ $progdir/../../RetroArch/retroarch -v -L $progdir/gambatte_libretro.so "$1"
+RA_DIR=/mnt/SDCARD/RetroArch
+
+./cpufreq.sh
+cd $RA_DIR/
+HOME=$RA_DIR/ $RA_DIR/retroarch -v -L $RA_DIR/.retroarch/cores/gambatte_libretro.so "$1"
