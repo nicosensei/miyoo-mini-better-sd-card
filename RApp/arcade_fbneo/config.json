@@ -1,0 +1,13 @@
+{
+"label":"fbneo",
+"icon":"fbneo.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../roms/fbneo",
+"imgpath":"../../Imgs/fbneo",
+"gamelist":"../../roms/fbneo/gamelist.xml",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}
