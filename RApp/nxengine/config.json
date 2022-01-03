@@ -1,0 +1,12 @@
+{
+"label":"Cave Story",
+"icon":"nxengine.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../roms/nxengine",
+"imgpath":"../../Imgs/",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"exe"
+}
