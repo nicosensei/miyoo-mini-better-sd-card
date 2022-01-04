@@ -31,7 +31,7 @@ For obvious legal reasons, neither bios files nor roms or box art are provided i
 
 ## Adding BIOS files
 
-Bios files should be copied to the `boxart/bios` folder on the SD card. Create it if it does not exist.
+Bios files should be copied to the `roms/bios` folder on the SD card. Create it if it does not exist.
 
 ## Adding ROMs
 
