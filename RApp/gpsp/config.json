@@ -4,7 +4,7 @@
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../roms/gba",
-"imgpath":"../../boxart/gba",
+"imgpath":"../../Imgs/gba",
 "useswap":0,
 "shortname":0,
 "hidebios":1,

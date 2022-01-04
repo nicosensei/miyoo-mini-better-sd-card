@@ -4,7 +4,7 @@
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../roms/gameboy",
-"imgpath":"../../boxart/gameboy",
+"imgpath":"../../Imgs/gameboy",
 "useswap":0,
 "shortname":0,
 "hidebios":1,
