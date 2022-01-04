@@ -1,5 +1,5 @@
 pcsx_rearmed_analog_axis_modifier = "circle"
-pcsx_rearmed_async_cd = "sync"
+pcsx_rearmed_async_cd = "async"
 pcsx_rearmed_bios = "auto"
 pcsx_rearmed_display_internal_fps = "disabled"
 pcsx_rearmed_dithering = "enabled"

@@ -1,0 +1,297 @@
+cheats = 74
+
+cheat0_desc = "Master Code"
+cheat0_code = "D8BAE4D9+4864DCE5+A86CDBA5+19BA49B3"
+cheat0_enable = false
+
+cheat1_desc = "Anti DMA"
+cheat1_code = "B2809E31+3CEF5320+1C7B3231+B494738C"
+cheat1_enable = false
+
+cheat2_desc = "No Random Battle"
+cheat2_code = "320375D4+0000"
+cheat2_enable = false
+
+cheat3_desc = "Skip Trainer Battles"
+cheat3_code = "00000000+18059EB6+0000E038+00000000"
+cheat3_enable = false
+
+cheat4_desc = "Skip Intro"
+cheat4_code = "73005E00+09CD+83005E00+0C19+73005E00+261D+83005E00+15BD"
+cheat4_enable = false
+
+cheat5_desc = "Enable National Dex [Press Select]"
+cheat5_code = "D0000020+0004+83000E48+9F0D+D0000020+0004+83000E4A+081F"
+cheat5_enable = false
+
+cheat6_desc = "Complete Pokedex"
+cheat6_code = "32024AB0+00FF+32024AE0+0003+32026388+00FF+320263B8+0003+32029524+00FF+32029554+0003+32024A7C+00FF+32024AAC+0003"
+cheat6_enable = false
+
+cheat7_desc = "Max Money"
+cheat7_code = "82000568+423F+8200056A+000F"
+cheat7_enable = false
+
+cheat8_desc = "Max Coins"
+cheat8_code = "82002DEC+270F"
+cheat8_enable = false
+
+cheat9_desc = "Mini EXP Gain After Battle"
+cheat9_code = "8202309C+0100+820241F0+0100"
+cheat9_enable = false
+
+cheat10_desc = "Medium EXP Gain After Battle"
+cheat10_code = "8202309C+0200+820241F0+0200"
+cheat10_enable = false
+
+cheat11_desc = "Max EXP Gain After Battle"
+cheat11_code = "8202309C+03E7+820241F0+03E7"
+cheat11_enable = false
+
+cheat12_desc = "No Species Restriction At Battle Tower"
+cheat12_code = "00000000+180A58A8+00009D95+00000000+00000000+00000000+00000000+00000000+00000000+00000000"
+cheat12_enable = false
+
+cheat13_desc = "1st Pokemon Max Stats"
+cheat13_code = "42024542+03E7+00000007+0002"
+cheat13_enable = false
+
+cheat14_desc = "2nd Pokemon Max Stats"
+cheat14_code = "420245A6+03E7+00000007+0002"
+cheat14_enable = false
+
+cheat15_desc = "3rd Pokemon Max Stats"
+cheat15_code = "4202460A+03E7+00000007+0002"
+cheat15_enable = false
+
+cheat16_desc = "4th Pokemon Max Stats"
+cheat16_code = "4202466E+03E7+00000007+0002"
+cheat16_enable = false
+
+cheat17_desc = "5th Pokemon Max Stats"
+cheat17_code = "420246D2+03E7+00000007+0002"
+cheat17_enable = false
+
+cheat18_desc = "6th Pokemon Max Stats"
+cheat18_code = "42024736+03E7+00000007+0002"
+cheat18_enable = false
+
+cheat19_desc = "Infinite PP"
+cheat19_code = "42023070+6363+00000002+0002"
+cheat19_enable = false
+
+cheat20_desc = "1-Hit Kill"
+cheat20_code = "02024104+0001+32024104+0001"
+cheat20_enable = false
+
+cheat21_desc = "1-Hit Double Battle Kill (Instant Win)"
+cheat21_code = "74000130+01FF+8202479A+0000+74000130+01FF+8202479C+0000+74000130+01FF+820247FE+0000+74000130+01FF+82024800+0000"
+cheat21_enable = false
+
+cheat22_desc = "1-Hit Win"
+cheat22_code = "A745569AA9B6+FD228345FE5F+A745569AA9B6+F22203437E0F+A745569AA9B6+94240B01E41E+A745569AA9B6+7BDA7465DE8F+A745569AA9B6+1DDC7C27449E+A745569AA9B6+12DCFC21C4CE+A745569AA9B6+74B8F603545E+A745569AA9B6+FB385605D408+A745569AA9B6+9D5E1D674E99+A745569AA9B6+925E9D61CEC9+A745569AA9B6+F43A97435E59+A745569AA9B6+7BA22345FE0F"
+cheat22_enable = false
+
+cheat23_desc = "Always Your Turn"
+cheat23_code = "72024082+0A01+32024082+0002+7202407E+0001+8202407E+0100"
+cheat23_enable = false
+
+cheat24_desc = "Opponent Can't Attack"
+cheat24_code = "00000000+1A01F076+00002801+00000000"
+cheat24_enable = false
+
+cheat25_desc = "Have All Pokeballs (Activate Only One Cheat)"
+cheat25_code = "00000000+84226050+00630001+010C0001+80000000+00000000"
+cheat25_enable = false
+
+cheat26_desc = "Have All TMs/HMs (Activate Only One Cheat)"
+cheat26_code = "00000000+84226090+00090121+011E0001+80000000+00000000+00000000+84226108+00090140+01140001+80000000+00000000+00000000+84226154+00090153+01080001+80000000+00000000"
+cheat26_enable = false
+
+cheat27_desc = "Infinite Safari Time"
+cheat27_code = "8203A04E+0258"
+cheat27_enable = false
+
+cheat28_desc = "Access Fly Map [Press Select]"
+cheat28_code = "74000130+03FA+830022C4+4691+74000130+03FA+830022C6+0812"
+cheat28_enable = false
+
+cheat29_desc = "Fly Anywhere On Map"
+cheat29_code = "72002DD4+0A74+32002DEA+0002"
+cheat29_enable = false
+
+cheat30_desc = "Access Secret Power"
+cheat30_code = "73000E48+5A05+83000E48+5A80"
+cheat30_enable = false
+
+cheat31_desc = "Have Cut Ability"
+cheat31_code = "73000E4C+0729+83000E4C+06E7"
+cheat31_enable = false
+
+cheat32_desc = "Have Dive [Press R+Select]"
+cheat32_code = "74000130+02FB+83000E48+0B45+74000130+02FB+83000E4A+0829"
+cheat32_enable = false
+
+cheat33_desc = "Have Flash [Press L+Select]"
+cheat33_code = "74000130+03BB+43000E48+26F8+E1310002+0002+74000130+03BB+83000F2C+0000"
+cheat33_enable = false
+
+cheat34_desc = "Have Rock Smash Ability"
+cheat34_code = "73000E48+07A7+83000E48+07EA"
+cheat34_enable = false
+
+cheat35_desc = "Have Surf Ability [Press Select]"
+cheat35_code = "D0000020+0004++83000E48+1ED2+D0000020+0004+83000E4A+0827"
+cheat35_enable = false
+
+cheat36_desc = "Waterfall"
+cheat36_code = "73000E48+0A84+83000E48+0A4A"
+cheat36_enable = false
+
+cheat37_desc = "Receive Balance Badge"
+cheat37_code = "74000130+01BB+83000E48+4E53+74000130+01BB+83000E4A+0820"
+cheat37_enable = false
+
+cheat38_desc = "Receive Dynamo Badge"
+cheat38_code = "74000130+037B+83000E48+DF31+74000130+037B+83000E4A+0820"
+cheat38_enable = false
+
+cheat39_desc = "Receive Feather Badge"
+cheat39_code = "74000130+01EB+83000E48+6603+74000130+01EB+83000E4A+0821"
+cheat39_enable = false
+
+cheat40_desc = "Receive Heat Badge"
+cheat40_code = "74000130+03DB+83000E48+E7C7+74000130+03DB+83000E4A+081F"
+cheat40_enable = false
+
+cheat41_desc = "Receive Knuckle Badge"
+cheat41_code = "74000130+03EB+83000E48+C802+74000130+03EB+83000E4A+081F"
+cheat41_enable = false
+
+cheat42_desc = "Receive Mind Badge"
+cheat42_code = "74000130+017B+83000E48+08D7+74000130+017B+83000E4A+0822"
+cheat42_enable = false
+
+cheat43_desc = "Receive Rain Badge"
+cheat43_code = "74000130+01DB+83000E48+4F88+74000130+01DB+83000E4A+0822"
+cheat43_enable = false
+
+cheat44_desc = "Receive Stone Badge"
+cheat44_code = "74000130+03BB+83000E48+2F6C+74000130+03BB+83000E4A+0821"
+cheat44_enable = false
+
+cheat45_desc = "Fre Daycare"
+cheat45_code = "820375E2+0000"
+cheat45_enable = false
+
+cheat46_desc = "Items Cost 1$"
+cheat46_code = "00000000+00000000+C43B60AA+168457A2+0A5D51E9+0000045B"
+cheat46_enable = false
+
+cheat47_desc = "100% catch Rate"
+cheat47_code = "720207AE+0102+820055D4+0004+720207AE+0102+82024214+BD84"
+cheat47_enable = false
+
+cheat48_desc = "Exp Share"
+cheat48_code = "320243FE+00FF"
+cheat48_enable = false
+
+cheat49_desc = "Berry Blender Max Direct Hits"
+cheat49_code = "372002EFA+0100+82002F04+03E7"
+cheat49_enable = false
+
+cheat50_desc = "Berry Blender Max Lvl Gold (Beauty)"
+cheat50_code = "72002EFA+0100+32002F52+00FF"
+cheat50_enable = false
+
+cheat51_desc = "Berry Blender Max Lvl Gold (Cool)"
+cheat51_code = "72002EFA+0100+32002F51+00FF"
+cheat51_enable = false
+
+cheat52_desc = "Berry Blender Max Lvl Gold (Cute)"
+cheat52_code = "72002EFA+0100+32002F53+00FF"
+cheat52_enable = false
+
+cheat53_desc = "Berry Blender Max Lvl Gold (Smart)"
+cheat53_code = "72002EFA+0100+32002F54+00FF"
+cheat53_enable = false
+
+cheat54_desc = "Berry Blender Max Lvl Gold (Tough)"
+cheat54_code = "72002EFA+0100+32002F55+00FF"
+cheat54_enable = false
+
+cheat55_desc = "Berry Blender Maximum Feel"
+cheat55_code = "72002EFA+0100+82002F56+00FF"
+cheat55_enable = false
+
+cheat56_desc = "Berry Blender No Misses"
+cheat56_code = "72002EFA+0100+82002F08+0000"
+cheat56_enable = false
+
+cheat57_desc = "Berry Blender Quick Blend"
+cheat57_code = "72002EFA+0100+82002EF8+03E8"
+cheat57_enable = false
+
+cheat58_desc = "Berry Blender Re-Battle Activator"
+cheat58_code = "D0000020+0004+83000E48+1440+D0000020+0004+83000E4A+0827"
+cheat58_enable = false
+
+cheat59_desc = "Access Birchs Bag"
+cheat59_code = "74000130+00BF+83000E38+0000+74000130+00BF+83000E40+0200+74000130+00BF+83000E48+BE20+74000130+00BF+83000E4A+081E+73000E48+BE42+83000E48+BE4D"
+cheat59_enable = false
+
+cheat60_desc = "Access Deco Shop [Press L+A+Select]"
+cheat60_code = "74000130+01FA+83000E38+0000+74000130+01FA+83000E48+0012+74000130+01FA+83000E4A+0822+72002DD4+0280+42002DD0+0000+00000002+0002"
+cheat60_enable = false
+
+cheat61_desc = "Access MOD Shop [Press L+A+Select]"
+cheat61_code = "74000130+01FA+83000E38+0000+74000130+01FA+83000E48+83D2+74000130+01FA+83000E4A+0826+72002DD4+03C0+42002DD0+0000+00000002+0002"
+cheat61_enable = false
+
+cheat62_desc = "Free MOD Shop Items"
+cheat62_code = "72002DE2+0200+420051B0+0000+00000002+0002+720051BA+FF00+820051BA+FF63"
+cheat62_enable = false
+
+cheat63_desc = "Mystic Ticket"
+cheat63_code = "82025EE0+0172"
+cheat63_enable = false
+
+cheat64_desc = "Aurora Ticket"
+cheat64_code = "82025EE0+0173"
+cheat64_enable = false
+
+cheat65_desc = "Have Old Sea Map"
+cheat65_code = "82025EE0+0178"
+cheat65_enable = false
+
+cheat66_desc = "Infinite Wynaut Eggs"
+cheat66_code = "83000E4C+A74F+83000E4E+081EF"
+cheat66_enable = false
+
+cheat67_desc = "Install Match Call [Press Select+R+Up]"
+cheat67_code = "74000130+02BB+83000E48+0779+74000130+02BB+83000E4A+081E"
+cheat67_enable = false
+
+cheat68_desc = "Install PokeNAV [Press Select+R+Down]"
+cheat68_code = "74000130+027B+83000E4C+24ED+74000130+027B+83000E4E+0821"
+cheat68_enable = false
+
+cheat69_desc = "Maximum Hearts"
+cheat69_code = "72002F62+082D+32002EF2+00A0"
+cheat69_enable = false
+
+cheat70_desc = "Maximum Sale Price"
+cheat70_code = "73005E00+D795+83005E18+FFFF"
+cheat70_enable = false
+
+cheat71_desc = "Maximum Score"
+cheat71_code = "72002F62+082D+32002EF4+00FF"
+cheat71_enable = false
+
+cheat72_desc = "Receive BP [Hold Select]"
+cheat72_code = "D0000020+0004+83000E4C+0813+D0000020+0004+83000E4E+0825+D0000020+0004+83000E40+0101"
+cheat72_enable = false
+
+cheat73_desc = "Receive Symbol"
+cheat73_code = "D0000020+0004+83000E48+C330+D0000020+0004+83000E4A+0824+73000E48+C861+83000E48+99F1"
+cheat73_enable = false

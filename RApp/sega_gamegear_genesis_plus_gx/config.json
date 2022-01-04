@@ -1,0 +1,12 @@
+{
+"label":"Sega - Gamegear",
+"icon":"genesis_plus_gx.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"/mnt/SDCARD/roms/gamegear",
+"imgpath":"/mnt/SDCARD/boxart/gamegear",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"zip"
+}

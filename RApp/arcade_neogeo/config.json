@@ -3,10 +3,10 @@
 "icon":"neogeo.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../roms/neogeo",
-"imgpath":"../../Imgs/neogeo",
+"rompath":"/mnt/SDCARD/roms/neogeo",
+"imgpath":"/mnt/SDCARD/boxart/neogeo",
 "useswap":1,
 "shortname":1,
 "hidebios":1,
-"extlist":""
+"extlist":"zip"
 }

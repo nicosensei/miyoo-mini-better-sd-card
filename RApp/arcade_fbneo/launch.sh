@@ -1,7 +1,7 @@
 #!/bin/sh
 echo $0 $*
-progdir=`dirname "$0"`
-homedir=`dirname "$1"`
+RA_DIR=/mnt/SDCARD/RetroArch
+
 ./cpufreq.sh
-cd /mnt/SDCARD/RetroArch/
-HOME=/mnt/SDCARD/RetroArch/ $progdir/../../RetroArch/retroarch -v -L $progdir/fbneo_libretro.so "$1"
+cd $RA_DIR/
+HOME=$RA_DIR/ $RA_DIR/retroarch -v -L $RA_DIR/.retroarch/cores/fbneo_libretro.so "$1"
