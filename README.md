@@ -80,7 +80,7 @@ The following cores are used by default:
 - Sega - Megadrive: `genesis_plus_gx`
 - Sega - Sega CD: `genesis_plus_gx`
 - NEC - PC Engine: `mednafen_pce_fast`
-- RPG Make 2000/2003: `easyrpg`
+- RPG Maker 2000/2003: `easyrpg`
 
 Some alternative cores are available in `RApp/backup`, if you want to try them: 
 
@@ -113,7 +113,7 @@ The shortcuts in the `RetroArch` folder are configured with the following paths 
 - Sega - Megadrive: `/boxart/megadrive`
 - Sega - Sega CD: `/boxart/segacd`
 - NEC - PC Engine: `/boxart/pcengine`
-- RPG Make 2000/2003: `/boxart/easyrpg` (unzipped)
+- RPG Maker 2000/2003: `/boxart/easyrpg` (unzipped)
 
 If you have subfolders in your ROM folders (for instance, I like to have subfolders per genre), the images should all be at the root of the boxart folder.
 
