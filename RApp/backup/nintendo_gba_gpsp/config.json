@@ -1,0 +1,12 @@
+{
+"label":"Nintendo - GBA (gpsp)",
+"icon":"gpsp.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../roms/gba",
+"imgpath":"../../Imgs/gba",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"zip"
+}
