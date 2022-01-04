@@ -1,10 +1,10 @@
 {
-"label":"Nintendo - NES (fceumm)",
+"label":"Nintendo - NES",
 "icon":"fceumm.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../roms/nes",
-"imgpath":"../../Imgs/nes",
+"rompath":"/mnt/SDCARD/roms/nes",
+"imgpath":"/mnt/SDCARD/boxart/nes",
 "useswap":0,
 "shortname":0,
 "hidebios":1,

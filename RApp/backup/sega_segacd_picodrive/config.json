@@ -3,10 +3,10 @@
 "icon":"picodrive.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../roms/segacd",
-"imgpath":"../../Imgs/segacd",
+"rompath":"/mnt/SDCARD/roms/segacd",
+"imgpath":"/mnt/SDCARD/boxart/segacd",
 "useswap":0,
 "shortname":0,
 "hidebios":1,
-"extlist":"cue"
+"extlist":"chd"
 }
