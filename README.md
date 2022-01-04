@@ -3,13 +3,13 @@ An enhanced Miyoo Mini SD card package, translated, cleaned up, debloated.
 
 ## Features
 
-- fully working RetroArch app, you can load boxart and cores directly from the RetroArch menu if you want to
+- fully working RetroArch app, you can load roms and cores directly from the RetroArch menu if you want to
 - only includes cores that have been tested to work
 - cores and systems are properly configured (aspect ratios, video filters)
 - proper key mapping for RetroArch hotkeys
 - only standalone emulators are included in the _Games_ section
 - the _RetroArch_ section contains links for every supported system
-- `Apps` are translated to english (_Commander_, _SDL PAL_)
+- _Apps_ are translated to english (_Commander_, _SDL PAL_)
 - preconfigured path and emulators for every supported system
 - a subset of the _libretro_ cheat database for every supported system
 
@@ -33,34 +33,34 @@ For obvious legal reasons, neither bios files nor boxart are provided in the rel
 
 Bios files should be copied to the `boxart/bios` folder on the SD card. Create it if it does not exist.
 
-## Adding boxart
+## Adding ROMs
 
-boxart should be copied to the `boxart` folder on the SD card. Create it if it does not exist.
+Roms should be copied to the `roms` folder on the SD card. Create it if it does not exist.
 
 The shortcuts in the `RetroArch` folder are configured with the following paths (you need to edit `config.json` files if you'd like to change them):
 
-- Arcade - CPS1: `/boxart/cps1`
-- Arcade - CPS2: `/boxart/cps2`
-- Arcade - Fina Burn Neo: `/boxart/fbneo`
-- Arcade - Neo-Geo: `/boxart/neogeo`
-- Nintendo - GameBoy: `/boxart/gb`
-- Nintendo - GameBoy Color: `/boxart/gbc`
-- Nintendo - GameBoy Advance: `/boxart/gba`
-- Nintendo - NES: `/boxart/nes`
-- Nintendo - Super Nintendo: `/boxart/snes`
-- Sega - Game Gear: `/boxart/gamegear`
-- Sega - Master System: `/boxart/mastersystem`
-- Sega - Megadrive: `/boxart/megadrive`
-- Sega - Sega CD: `/boxart/segacd`
-- NEC - PC Engine: `/boxart/pcengine`
-- RPG Make 2000/2003: `/boxart/easyrpg` (unzipped)
+- Arcade - CPS1: `/roms/cps1`
+- Arcade - CPS2: `/roms/cps2`
+- Arcade - Fina Burn Neo: `/roms/fbneo`
+- Arcade - Neo-Geo: `/roms/neogeo`
+- Nintendo - GameBoy: `/roms/gb`
+- Nintendo - GameBoy Color: `/roms/gbc`
+- Nintendo - GameBoy Advance: `/roms/gba`
+- Nintendo - NES: `/roms/nes`
+- Nintendo - Super Nintendo: `/roms/snes`
+- Sega - Game Gear: `/roms/gamegear`
+- Sega - Master System: `/roms/mastersystem`
+- Sega - Megadrive: `/roms/megadrive`
+- Sega - Sega CD: `/roms/segacd`
+- NEC - PC Engine: `/roms/pcengine`
+- RPG Make 2000/2003: `/roms/easyrpg` (unzipped)
 
 ## Ports
 
 Some game ports are supported by RetroArch cores. The data files should be copied to the following folders:
 
-- NXEngine - Cave Story: `/boxart/nxengine`
-- OutRun - Cannonball: `/boxart/cannonball`
+- NXEngine - Cave Story: `/roms/nxengine`
+- OutRun - Cannonball: `/roms/cannonball`
 
 ## Default cores
 
