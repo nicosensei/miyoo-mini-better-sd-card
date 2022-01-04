@@ -4,7 +4,7 @@
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/roms/neogeo",
-"imgpath":"/mnt/SDCARD/roms/neogeo/.boxart",
+"imgpath":"/mnt/SDCARD/boxart/neogeo",
 "useswap":1,
 "shortname":1,
 "hidebios":1,

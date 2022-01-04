@@ -4,7 +4,7 @@
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/roms/easyrpg",
-"imgpath":"/mnt/SDCARD/roms/easyrpg/.boxart",
+"imgpath":"/mnt/SDCARD/boxart/easyrpg",
 "useswap":0,
 "shortname":0,
 "hidebios":1,

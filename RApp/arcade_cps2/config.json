@@ -4,7 +4,7 @@
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/roms/cps2",
-"imgpath":"/mnt/SDCARD/roms/cps2/.boxart",
+"imgpath":"/mnt/SDCARD/boxart/cps2",
 "gamelist":"/mnt/SDCARD/roms/cps2/gamelist.xml",
 "useswap":1,
 "shortname":1,

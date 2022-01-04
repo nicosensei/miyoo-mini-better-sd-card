@@ -4,7 +4,7 @@
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/roms/fbneo",
-"imgpath":"/mnt/SDCARD/roms/fbneo/.boxart",
+"imgpath":"/mnt/SDCARD/boxart/fbneo",
 "gamelist":"/mnt/SDCARD/roms/fbneo/gamelist.xml",
 "useswap":1,
 "shortname":1,
