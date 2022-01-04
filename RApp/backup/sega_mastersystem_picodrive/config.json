@@ -1,0 +1,12 @@
+{
+"label":"Sega - Mastersystem (PicoDrive)",
+"icon":"picodrive.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../roms/mastersystem",
+"imgpath":"../../Imgs/mastersystem",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"chd"
+}
