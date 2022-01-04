@@ -1,5 +1,5 @@
 {
-"label":"genesis_plus_gx",
+"label":"Sega - Megadrive (Gen+ GX)",
 "icon":"genesis_plus_gx.png",
 "iconsel":"",
 "launch":"launch.sh",
@@ -8,5 +8,5 @@
 "useswap":0,
 "shortname":0,
 "hidebios":1,
-"extlist":""
+"extlist":"zip"
 }

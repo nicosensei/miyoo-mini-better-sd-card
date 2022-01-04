@@ -1,10 +1,10 @@
 {
-"label":"picodrive",
+"label":"Sega - Sega CD (PicoDrive)",
 "icon":"picodrive.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../roms/megadrive",
-"imgpath":"../../Imgs/megadrive",
+"rompath":"../../roms/segacd",
+"imgpath":"../../Imgs/segacd",
 "useswap":0,
 "shortname":0,
 "hidebios":1,

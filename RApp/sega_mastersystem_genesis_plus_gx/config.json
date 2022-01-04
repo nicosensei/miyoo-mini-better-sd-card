@@ -1,0 +1,12 @@
+{
+"label":"Sega - Master System",
+"icon":"genesis_plus_gx.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../roms/mastersystem",
+"imgpath":"../../Imgs/mastersystem",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"zip"
+}
