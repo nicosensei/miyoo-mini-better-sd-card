@@ -4,7 +4,7 @@
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/roms/gamegear",
-"imgpath":"/mnt/SDCARD/boxart/gamegear",
+"imgpath":"/mnt/SDCARD/roms/gamegear/.boxart",
 "useswap":0,
 "shortname":0,
 "hidebios":1,

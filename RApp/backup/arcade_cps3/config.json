@@ -4,7 +4,7 @@
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/roms/cps3",
-"imgpath":"/mnt/SDCARD/boxart/cps3",
+"imgpath":"/mnt/SDCARD/roms/cps3/.boxart",
 "gamelist":"/mnt/SDCARD/roms/cps3/gamelist.xml",
 "useswap":1,
 "shortname":1,
