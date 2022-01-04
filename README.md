@@ -26,7 +26,7 @@ An enhanced Miyoo Mini SD card package, translated, cleaned up, debloated.
 - Copy the following folders from the release package to the root of your SD card: `App`, `Emu`,  `RApp` and `RetroArch`
 
 
-For obvious legal reasons, neither bios files nor boxart are provided in the release package, you should copy them yourself.
+For obvious legal reasons, neither bios files nor roms or box art are provided in the release package, you should copy them yourself.
 
 
 ## Adding BIOS files
