@@ -132,3 +132,10 @@ _NB_ `HK` refers to the function button (small round button just below the scree
 - Rewind: `HK + L2`
 
 Note that pressing `F` does not bring up the menu anymore, as it is used as the _hotkey enable_ button.
+
+## Credits
+
+Credit goes to the authors of the original software:
+
+- Libretro / RetroArch developers for the source of RetroArch, cores, assets and cheats
+- Miyoo for the RetroArch build
