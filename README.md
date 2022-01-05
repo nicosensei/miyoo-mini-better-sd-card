@@ -133,6 +133,14 @@ _NB_ `HK` refers to the function button (small round button just below the scree
 
 Note that pressing `F` does not bring up the menu anymore, as it is used as the _hotkey enable_ button.
 
+## Included resources
+
+The following free and open-source resources are included with the package:
+
+- `roms/bios/ecwolf.pk3`: needed to run ECWolf
+- `roms/bios/prboom.wad`: needed to run PrBoom
+- `roms/nxengine`: Cave Story data
+
 ## Credits
 
 Credit goes to the authors of the original software:
