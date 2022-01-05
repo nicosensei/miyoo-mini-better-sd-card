@@ -1,0 +1,12 @@
+{
+"label":"Ports - Wolfenstein 3D",
+"icon":"ecwolf.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../roms/ecwolf",
+"imgpath":"../../boxart/ecwolf",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"exe"
+}
