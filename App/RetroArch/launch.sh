@@ -1,5 +1,7 @@
 #!/bin/sh
 echo $0 $*
-progdir=`dirname "$0"`
+RA_DIR=/mnt/SDCARD/RetroArch
+
+./cpufreq.sh
 cd $RA_DIR/
-HOME=/mnt/SDCARD/RetroArch/ $progdir/retroarch -v
+HOME=$RA_DIR/ $RA_DIR/retroarch -v
