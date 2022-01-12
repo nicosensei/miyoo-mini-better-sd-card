@@ -1,7 +1,7 @@
 {
-"label":"Nintendo - SNES (SupaF)",
-"icon":"mednafen_supafaust.png",
-"iconsel":"mednafen_supafaust.png",
+"label":"Nintendo - SNES (snes9x)",
+"icon":"snes9x.png",
+"iconsel":"",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/roms/snes",
 "imgpath":"/mnt/SDCARD/boxart/snes",
