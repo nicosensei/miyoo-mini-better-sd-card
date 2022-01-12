@@ -5,7 +5,7 @@
 DEV_GOVERNOR=/sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
 RA_DIR=/mnt/SDCARD/RetroArch
 
-if [ "$#" -ge 2 ]; then
+if [ "$#" -lt 2 ]; then
     #echo $0 $* expected at least 2 arguments
     exit -1
 fi
