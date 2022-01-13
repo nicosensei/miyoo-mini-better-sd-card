@@ -1,0 +1,7 @@
+{
+"label":"Cannonball",
+"icon":"cannonball.png",
+"iconsel":"cannonball.png",
+"launch":"launch.sh",
+"description":"OutRun game engine recreation"
+}

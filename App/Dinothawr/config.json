@@ -1,0 +1,7 @@
+{
+"label":"Dinothawr",
+"icon":"dinothawr.png",
+"iconsel":"dinothawr.png",
+"launch":"launch.sh",
+"description":"Block pushing puzzle game"
+}
