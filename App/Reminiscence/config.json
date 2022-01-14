@@ -1,0 +1,7 @@
+{
+"label":"Reminiscence",
+"icon":"reminiscence.png",
+"iconsel":"",
+"launch":"launch.sh",
+"description":"Rewritten engine for Flashback "
+}
