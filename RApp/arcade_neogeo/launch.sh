@@ -1,2 +1,2 @@
 #!/bin/sh
-/mnt/SDCARD/RetroArch/launch_core_rom.sh fbneo "$1" performance
+/mnt/SDCARD/RetroArch/launch.sh fbalpha2012_neogeo "$1" performance
