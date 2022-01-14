@@ -1,2 +1,2 @@
 #!/bin/sh
-/mnt/SDCARD/RetroArch/launch.sh snes9x2005 "$1"
+/mnt/SDCARD/RetroArch/launch_core_rom.sh snes9x2005 "$1"

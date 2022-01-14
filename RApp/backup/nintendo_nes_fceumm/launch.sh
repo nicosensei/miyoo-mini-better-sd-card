@@ -1,2 +1,2 @@
 #!/bin/sh
-/mnt/SDCARD/RetroArch/launch.sh fceumm "$1"
+/mnt/SDCARD/RetroArch/launch_core_rom.sh fceumm "$1"

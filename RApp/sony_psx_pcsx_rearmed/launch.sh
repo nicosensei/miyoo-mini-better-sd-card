@@ -1,2 +1,2 @@
 #!/bin/sh
-/mnt/SDCARD/RetroArch/launch.sh pcsx_rearmed "$1" performance
+/mnt/SDCARD/RetroArch/launch_core_rom.sh pcsx_rearmed "$1" performance

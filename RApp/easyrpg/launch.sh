@@ -1,2 +1,2 @@
 #!/bin/sh
-/mnt/SDCARD/RetroArch/launch.sh easyrpg "$1"
+/mnt/SDCARD/RetroArch/launch_core_rom.sh easyrpg "$1"
