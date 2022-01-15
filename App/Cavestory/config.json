@@ -1,0 +1,7 @@
+{
+"label":"Cave Story",
+"icon":"cavestory.png",
+"iconsel":"cavestory.png",
+"launch":"launch.sh",
+"description":"Metroidvania platform-adventure game"
+}
