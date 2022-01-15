@@ -1,7 +1,0 @@
-{
-"label":"Power off",
-"icon":"pw.png",
-"iconsel":"pw_sel.png",
-"launch":"launch.sh",
-"description":"Shutdown"
-}
