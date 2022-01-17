@@ -1,6 +1,6 @@
 {
 "label":"Nintendo - SNES (2002)",
-"icon":"snes9x.png",
+"icon":"snes9x2002.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/roms/snes",
