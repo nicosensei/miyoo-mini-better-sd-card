@@ -155,8 +155,9 @@ The following free and open-source resources are included with the package:
 
 ## Credits
 
-Credit goes to the authors of the original software:
+Credit goes to the authors of the original software and resources:
 
-- Libretro / RetroArch developers for the source of RetroArch, cores, assets and cheats
-- Miyoo for the RetroArch build
-- OnionOS for themes and the Supafaust core
+- Libretro / RetroArch developers for the source of RetroArch, cores, assets and cheats (https://github.com/libretro)
+- Miyoo for the RetroArch build (https://lemiyoo.cn/)
+- OnionOS for themes and the Supafaust core (https://github.com/jimgraygit/Onion)
+- Lucario icons (https://github.com/DogWav3/Lucario_libretro_Miyoo_icons)
