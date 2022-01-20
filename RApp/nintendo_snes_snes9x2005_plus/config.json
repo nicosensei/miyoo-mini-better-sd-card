@@ -1,6 +1,6 @@
 {
 "label":"Nintendo - SNES (2005+)",
-"icon":"snes9x.png",
+"icon":"snes9x2005_plus.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/roms/snes",
