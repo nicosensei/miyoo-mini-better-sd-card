@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <game>
-   <title source="assets/titlescreen.png"/>
-   <menu_bg source="assets/level_select_bg.png"/>
-   <game_bg source="assets/bg.png"/>
-   <end_bg source="assets/ending.png"/>
+   <title source="assets/titlescreen_sel.png"/>
+   <menu_bg source="assets/level_select_bg_sel.png"/>
+   <game_bg source="assets/bg_sel.png"/>
+   <end_bg source="assets/ending_sel.png"/>
    <font source="dino.font"/>
-   <level_complete source="assets/finished.png"/>
-   <lock_sprite source="assets/lock.png"/>
+   <level_complete source="assets/finished_sel.png"/>
+   <lock_sprite source="assets/lock_sel.png"/>
    <sfx>
       <sound source="assets/sfx/level_next.wav" name="level_next"/>
       <sound source="assets/sfx/chapter_locked.wav" name="chapter_locked"/>
