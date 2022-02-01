@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sprite name="nav" start_id="down">
-   <face id="down" source="arrow_down.png"/>
-   <face id="up" source="arrow_up.png"/>
-   <face id="lock" source="lock.png"/>
+   <face id="down" source="arrow_down_sel.png"/>
+   <face id="up" source="arrow_up_sel.png"/>
+   <face id="lock" source="lock_sel.png"/>
 </sprite>
 
