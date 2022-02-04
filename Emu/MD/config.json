@@ -1,7 +1,7 @@
 {
-"label":"Megadrive",
-"icon":"picodrive.png",
-"iconsel":"",
+"label":"MD",
+"icon":"megadrive.png",
+"iconsel":"megadrive_sel.png",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/Roms/MD",
 "imgpath":"/mnt/SDCARD/Imgs/MD",

@@ -1,0 +1,12 @@
+{
+"label":"GBC",
+"icon":"gbc.png",
+"iconsel":"gbc_sel.png",
+"launch":"launch.sh",
+"rompath":"/mnt/SDCARD/Roms/GBC",
+"imgpath":"/mnt/SDCARD/Imgs/GBC",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"zip"
+}

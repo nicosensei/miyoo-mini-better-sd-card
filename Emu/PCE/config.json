@@ -1,0 +1,12 @@
+{
+"label":"PCE",
+"icon":"pcengine.png",
+"iconsel":"pcengine_sel.png",
+"launch":"launch.sh",
+"rompath":"/mnt/SDCARD/Roms/PCE",
+"imgpath":"/mnt/SDCARD/Imgs/PCE",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"zip"
+}

@@ -1,0 +1,12 @@
+{
+"label":"DOOM",
+"icon":"doom.png",
+"iconsel":"doom_sel.png",
+"launch":"launch.sh",
+"rompath":"/mnt/SDCARD/Roms/DOOM",
+"imgpath":"/mnt/SDCARD/Imgs/DOOM",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"wad"
+}

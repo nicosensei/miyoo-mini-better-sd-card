@@ -1,7 +1,7 @@
 {
 "label":"NES",
-"icon":"fceumm.png",
-"iconsel":"",
+"icon":"nes.png",
+"iconsel":"nes_sel.png",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/Roms/FC",
 "imgpath":"/mnt/SDCARD/Imgs/FC",

@@ -1,7 +1,7 @@
 {
-"label":"FBNeo",
-"icon":"fbneo.png",
-"iconsel":"",
+"label":"ARCADE",
+"icon":"arcade.png",
+"iconsel":"arcade_sel.png",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/Roms/ARCADE",
 "imgpath":"/mnt/SDCARD/Imgs/ARCADE",

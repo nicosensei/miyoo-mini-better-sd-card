@@ -1,7 +1,7 @@
 {
-"label":"SNES (2002)",
-"icon":"snes9x2002.png",
-"iconsel":"",
+"label":"SNES",
+"icon":"snes.png",
+"iconsel":"snes_sel.png",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/Roms/SFC",
 "imgpath":"/mnt/SDCARD/Imgs/SFC",

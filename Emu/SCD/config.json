@@ -1,7 +1,7 @@
 {
-"label":"Sega CD",
-"icon":"picodrive.png",
-"iconsel":"",
+"label":"SCD",
+"icon":"segacd.png",
+"iconsel":"segacd_sel.png",
 "launch":"launch.sh",
 "rompath":"/mnt/SDCARD/Roms/SCD",
 "imgpath":"/mnt/SDCARD/Imgs/SCD",

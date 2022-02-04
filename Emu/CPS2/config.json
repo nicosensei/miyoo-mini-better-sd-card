@@ -1,0 +1,13 @@
+{
+"label":"CPS2",
+"icon":"cps2.png",
+"iconsel":"cps2_sel.png",
+"launch":"launch.sh",
+"rompath":"/mnt/SDCARD/Roms/CPS2",
+"imgpath":"/mnt/SDCARD/Imgs/CPS2",
+"gamelist":"/mnt/SDCARD/Roms/CPS2/gamelist.xml",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

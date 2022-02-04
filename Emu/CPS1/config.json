@@ -1,0 +1,13 @@
+{
+"label":"CPS1",
+"icon":"cps1.png",
+"iconsel":"cps1_sel.png",
+"launch":"launch.sh",
+"rompath":"/mnt/SDCARD/Roms/CPS1",
+"imgpath":"/mnt/SDCARD/Imgs/CPS1",
+"gamelist":"/mnt/SDCARD/Roms/CPS1/gamelist.xml",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}
