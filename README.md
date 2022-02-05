@@ -15,7 +15,7 @@ An enhanced Miyoo Mini SD card package, translated, cleaned up, debloated.
 
 ## How to install
 
-- You should first update your Miyoo Mini firmware to the latest update. Updates can be downloaded from https://lemiyoo.cn/upgrade/, and a guide on the flashing procedure is found on https://discord.com/channels/529983248114122762/891336865540620338/931055125177462886. As of writing the latest update is 20220108 (January 8th 2022). It may work on other firmware version but I haven't tested it.
+- You should first update your Miyoo Mini firmware to the latest update. Updates can be downloaded from https://lemiyoo.cn/upgrade/, and a guide on the flashing procedure is found on https://media.discordapp.net/attachments/891336865540620338/931055123654905898/Miyoo_Upgrade.png. As of writing the latest update is 20220108 (January 8th 2022). It may work on other firmware version but I haven't tested it.
 
 
 ### Starting from scratch
